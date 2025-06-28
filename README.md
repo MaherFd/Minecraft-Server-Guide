@@ -14,7 +14,7 @@ Yes, you read that right — **no need for PufferPanel or Pterodactyl!** You can
 
 1. Go to [GitHub](https://github.com/) and click **New Repository**.
    
-   ![Step One](https://github.com/user-attachments/assets/471ba07e-09b4-4174-be22-94482271235d)
+   ![Step One](Step Five.png)
    
 2. Name your repo anything you like, and choose either Public or Private.
    ✅ IMPORTANT: Check the box for “Add a README file”. This will automatically initialize the repo — you no longer need to create a file manually.
