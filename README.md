@@ -14,9 +14,9 @@ Yes, you read that right — **no need for PufferPanel or Pterodactyl!** You can
 
 1. Go to [GitHub](https://github.com/) and click **New Repository**.
    
-   ![Step One](https://github.com/user-attachments/assets/471ba07e-09b4-4174-be22-94482271235d)
+   ![Step One](https://github.com/MaherFd/Minecraft-Server-Guide/blob/main/Step%20One.png)
    
-2. Name your repo anything you like, and choose either Public or Private.
+3. Name your repo anything you like, and choose either Public or Private.
    ✅ IMPORTANT: Check the box for “Add a README file”. This will automatically initialize the repo — you no longer need to create a file manually.
    
    ![Step Two](https://github.com/user-attachments/assets/50c439d1-05bd-4d2c-b2e8-055375d7a90b)
