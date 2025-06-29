@@ -105,7 +105,7 @@ Yes, you read that right — **no need for PufferPanel or Pterodactyl!** You can
 
 You can now connect to your server by using Plugins like [Playit.gg](https://playit.gg/download/plugins) to connect to your server
 
-You can also use via tools like [ngrok](https://ngrok.com/) ; [cloudflare](https://dash.cloudflare.com/) (if needed).
+You can also use via tools like [ngrok](https://ngrok.com/) , [cloudflare](https://dash.cloudflare.com/) (if needed).
 
 ---
 
