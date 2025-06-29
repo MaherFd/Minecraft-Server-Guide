@@ -103,9 +103,9 @@ Yes, you read that right — **no need for PufferPanel or Pterodactyl!** You can
 
 ## 🎉 Success! Your Minecraft Server is Running!
 
-You can now connect to your server (via the Codespace's exposed IP, or via tools like [ngrok](https://ngrok.com/) if needed).
-
 You can also use Plugins like [Playit.gg](https://playit.gg/download/plugins) to connect to your server
+
+You can now connect to your server via tools like [ngrok](https://ngrok.com/) ; [cloudflare](https://dash.cloudflare.com/) (if needed).
 
 ---
 
